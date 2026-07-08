@@ -184,7 +184,7 @@ Found a bug or want a feature? Open an issue or start a discussion. If you'd lik
 
 ## ✍️ Authors
 
-- Your name here
+- MAC  DUY TRUNG
 
 ## 📄 License
 
