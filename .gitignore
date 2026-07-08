@@ -1,0 +1,23 @@
+# Vivado project artifacts
+i2c_project.cache/
+i2c_project.runs/
+i2c_project.hw/
+i2c_project.ip_user_files/
+.Xil/
+*.xpr
+*.bit
+*.dcp
+*.lpr
+*.jou
+*.backup.*
+
+# Simulation artifacts
+sim/*.vvp
+sim/*.vcd
+sim/*.fst
+
+# Generated reports (reproducible)
+
+# OS files
+.DS_Store
+Thumbs.db
